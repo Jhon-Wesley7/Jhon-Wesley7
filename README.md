@@ -1,7 +1,7 @@
 Olá, eu sou o Jhon Wesley 👋
 
 - 🔭 Hoje estou trabalhando como Service Desk
-- 🌱 Estudando JavaScript
+- 🌱 Estudando PHP / Laravel
 - 💬 Contate-me no email: jwbf2016@gmail.com
 - 😄 ele/dele
 
